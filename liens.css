@@ -1,0 +1,4 @@
+a:hover {  color: #FFFF00; text-decoration: underline; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px}
+a:active {  color: #00FFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px}
+a:link {  color: #00FFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px}
+.caract {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFF66}

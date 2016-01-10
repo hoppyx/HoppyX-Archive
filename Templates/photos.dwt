@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Document sans titre</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFF00;
+}
+body {
+	background-color: #000000;
+}
+.Style1 {font-size: 24px}
+-->
+</style></head>
+
+<body>
+
+<table width="750" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <!-- TemplateBeginEditable name="photo" -->
+    <td width="719" height="18"></td>
+    <td width="31"></td>
+    <!-- TemplateEndEditable --></tr>
+  <tr>
+    <!-- TemplateBeginEditable name="titre" -->
+    <td height="43" valign="top"><p>&nbsp;</p></td>
+    <!-- TemplateEndEditable -->
+    <td></td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="730" valign="top"><!-- TemplateBeginEditable name="photos" -->
+      <p>&nbsp;</p>
+    <!-- TemplateEndEditable --></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="52">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
